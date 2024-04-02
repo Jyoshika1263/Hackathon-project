@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+ padding: 0;
+ }
+ .ui large menu{
+     list-style: none;
+      display: inline-flex; 
+ }
+ .item{
+         text-decoration:none;
+         color: #fff;
+         padding: 1.5rem;
+        font-weight:lighter;
+         font-size: 16px;
+         transition: all .5s ease;
+         
+ }
